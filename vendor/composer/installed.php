@@ -6,8 +6,8 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'f21d6c31f4eb20c9ea7772275b9fdbe08d9ba97f',
-    'name' => 'rodcko/text',
+    'reference' => '5c4bf12fd14d2f669185d22775608d1be29b1674',
+    'name' => 'rodcko/fundamentos',
   ),
   'versions' => 
   array (
@@ -159,14 +159,14 @@
       ),
       'reference' => 'f661659747f2f87f9e72095bb207bceb0f151cb4',
     ),
-    'rodcko/text' => 
+    'rodcko/fundamentos' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => 'f21d6c31f4eb20c9ea7772275b9fdbe08d9ba97f',
+      'reference' => '5c4bf12fd14d2f669185d22775608d1be29b1674',
     ),
     'sebastian/cli-parser' => 
     array (

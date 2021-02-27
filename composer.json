@@ -1,17 +1,19 @@
 {
-  "name": "rodcko/text",
-  "autoload": {
-    "psr-4": {
-      "Text\\": "src/"
-    },
-    "files": [
-      "src/helpers.php"
-    ]
+  "name": "rodcko/fundamentos",
+  "description": "Ejemplo composer",
+  "type": "lib",
+  "require": {
+    "nesbot/carbon": "^2.0@dev"
   },
   "require-dev": {
-    "phpunit/phpunit": "^9.5"
+    "phpunit/phpunit": "^9.4@dev"
   },
-  "require": {
-    "nesbot/carbon": "^2.45"
-  }
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rodrigo Hernández",
+      "email": "42217144+rodcko@users.noreply.github.com"
+    }
+  ],
+  "minimum-stability": "dev"
 }
