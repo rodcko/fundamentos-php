@@ -1,0 +1,19 @@
+<?php
+// Asignacion
+$num = 9;
+$lang = [
+  'es' => 'espanol',
+  'en' => 'ingles'
+
+];
+
+// Aritmetica
+echo "suma 2 + 2 " . ((int) 2 + (int) 2);
+echo "resta 2 - 2 " . ((int) 2 - (int) 2);
+echo "multiplica 2 * 2 " . 2 * 2;
+echo "divide 2 / 2 " . 2 / 2;
+echo "modulo 2 % 2 " . 2 % 2;
+echo "exponencial 2 ** 2 " . 2 ** 2;
+
+// Sintaxis: forma correcta de escribir para que nuestro ordenador entienda...
+
