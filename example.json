@@ -1,0 +1,9 @@
+{
+  "name": "rodcko",
+  "description": "Proplayer",
+  "courses": {
+    "essentials": ["Cassandra Essentials", "DataStax"],
+    "advanced": ["Cassandra Pro", "DataStax"]
+  },
+  "example": false
+}
